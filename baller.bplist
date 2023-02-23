@@ -63,6 +63,66 @@
             ]
         },
         {
+            "songName": "Stagestruck",
+            "levelAuthorName": "spear",
+            "hash": "E4AEF60ABEF4BF5B387E5D93C67EFA6EEC0B1163",
+            "levelid": "custom_level_E4AEF60ABEF4BF5B387E5D93C67EFA6EEC0B1163",
+            "difficulties": [
+                {
+                    "characteristic": "Standard",
+                    "name": "ExpertPlus"
+                }
+            ]
+        },
+        {
+            "songName": "Overkill",
+            "levelAuthorName": "Nuketime",
+            "hash": "2FDDB136BDA7F9E29B4CB6621D6D8E0F8A43B126",
+            "levelid": "custom_level_2FDDB136BDA7F9E29B4CB6621D6D8E0F8A43B126",
+            "difficulties": [
+                {
+                    "characteristic": "Standard",
+                    "name": "ExpertPlus"
+                }
+            ]
+        },
+        {
+            "songName": "666",
+            "levelAuthorName": "Bitz & Luck",
+            "hash": "43304202EC7681E52B4026313C7AB9099BE2890D",
+            "levelid": "custom_level_43304202EC7681E52B4026313C7AB9099BE2890D",
+            "difficulties": [
+                {
+                    "characteristic": "Standard",
+                    "name": "ExpertPlus"
+                }
+            ]
+        },
+        {
+            "songName": "Uebok VIP",
+            "levelAuthorName": "Fatalution",
+            "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731_19BE1 (UEBOK VIP - FATALUTION)",
+            "levelid": "custom_level_0437938EE67F7D54D89B42D5DD23F4A01FEAD731_19BE1 (UEBOK VIP - FATALUTION)",
+            "difficulties": [
+                {
+                    "characteristic": "Standard",
+                    "name": "ExpertPlus"
+                }
+            ]
+        },
+        {
+            "songName": "Uebok VIP",
+            "levelAuthorName": "Fatalution",
+            "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731_19BE1 (UEBOK VIP - FATALUTION)",
+            "levelid": "custom_level_0437938EE67F7D54D89B42D5DD23F4A01FEAD731_19BE1 (UEBOK VIP - FATALUTION)",
+            "difficulties": [
+                {
+                    "characteristic": "Standard",
+                    "name": "ExpertPlus"
+                }
+            ]
+        },
+        {
             "songName": "Cinco",
             "levelAuthorName": "Timbo",
             "hash": "C1CB957445C5BD92A8B4FEF3A2F9B99A7F775C0F",
@@ -299,42 +359,6 @@
                 {
                     "characteristic": "Standard",
                     "name": "ExpertPlus"
-                }
-            ]
-        },
-        {
-            "songName": "Pulsedriver & FSDW - Cambodia (Short Mix)",
-            "levelAuthorName": "skeelie",
-            "hash": "4B6672956A0B64FE7922F5DF932077C716D27808",
-            "levelid": "custom_level_4B6672956A0B64FE7922F5DF932077C716D27808",
-            "difficulties": [
-                {
-                    "characteristic": "Standard",
-                    "name": "expert"
-                }
-            ]
-        },
-        {
-            "songName": "[R] Kenshi Yonezu - KICK BACK (TV Size) (Cinema)",
-            "levelAuthorName": "CookedChili",
-            "hash": "0E173D98DA9DCB1804FC5A6D0C3E1300F0CE2CC3",
-            "levelid": "custom_level_0E173D98DA9DCB1804FC5A6D0C3E1300F0CE2CC3",
-            "difficulties": [
-                {
-                    "characteristic": "Standard",
-                    "name": "expert"
-                }
-            ]
-        },
-        {
-            "songName": "THE DEATH OF PEACE OF MIND - Bad Omens",
-            "levelAuthorName": "Bytrius",
-            "hash": "327ABA007350C469CE163C5BB0332840EF6C449F",
-            "levelid": "custom_level_327ABA007350C469CE163C5BB0332840EF6C449F",
-            "difficulties": [
-                {
-                    "characteristic": "Standard",
-                    "name": "expertPlus"
                 }
             ]
         }
